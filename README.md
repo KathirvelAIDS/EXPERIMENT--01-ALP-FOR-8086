@@ -167,6 +167,63 @@ hlt
 
 
 
+
+
+
+AND of 8 bit ALP:
+
+
+MOV AL,33H
+MOV BL,44H
+AND AL,BL
+HLT
+
+
+
+![316390657-da0ec872-95ff-4d75-8923-6c8d2f002739](https://github.com/KathirvelAIDS/EXPERIMENT--01-ALP-FOR-8086/assets/94911373/5f171357-d976-4a60-b114-5eeb055c60d6)
+
+
+
+OR of 8 bit ALP:
+
+
+MOV AL,45H
+MOV BL,66H
+OR AL,BL
+HLT
+
+
+![316390609-fa599619-17bc-416a-b662-94c2197c0c42](https://github.com/KathirvelAIDS/EXPERIMENT--01-ALP-FOR-8086/assets/94911373/4b223ea7-c39a-4d16-806f-efb68d315421)
+
+
+
+
+
+NOT of 8 bit ALP:
+
+
+
+MOV AL,65H
+NOT AL
+HLT
+
+
+![316390577-7ca3fde6-6b68-44c7-a4e6-3fb8e2ec15e9](https://github.com/KathirvelAIDS/EXPERIMENT--01-ALP-FOR-8086/assets/94911373/5ed74c12-4cab-4c17-915c-044dc740c17d)
+
+
+
+
+XOR of 8 bit ALP:
+MOV AL,66H
+MOV BL,77H
+XOR AL,BL
+HLT
+
+
+
+![316390559-3c2e879d-70a2-4bbb-bc5f-ce2e1a5d83c4](https://github.com/KathirvelAIDS/EXPERIMENT--01-ALP-FOR-8086/assets/94911373/16222d32-171e-4564-9018-54864488536c)
+
+
 ## Result :
 
 
